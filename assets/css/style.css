@@ -1,4 +1,4 @@
-/* Mandatory items for pages */
+/* Mandatory items for  pages */
 #nav {
    font-family: 'Georgia', Times, Times New Roman, serif;
    float:right;
@@ -45,21 +45,6 @@
     margin-left:0px;
 }
 
-
-/* This is for the about page */
-.h1 {
-    color:#4aaaa5;
-    border-bottom: 1px solid black;
-}
-
-.body {
-    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color:#777777;
-    margin:auto;
-    width:100%;
-    background-image:url(../images/what-the-hex.png);
-}
-
 .content {
     border-style:solid;
     border-color:#dddddd;
@@ -71,6 +56,24 @@
     border: 5px solid #cccccc;
     width:960px;
 }
+
+.h1 {
+    color:#4aaaa5;
+    border-bottom: 1px solid black;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding-bottom: 10px;
+}
+
+.body {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:#777777;
+    margin:auto;
+    width:100%;
+    background-image:url(../images/what-the-hex.png);
+}
+
+/* This is for the about page */
+
 
 #bio-image {
     float: left;
