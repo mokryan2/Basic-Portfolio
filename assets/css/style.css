@@ -3,7 +3,7 @@
    font-family: 'Georgia', Times, Times New Roman, serif;
    float:right;
    margin-top:10px;
-   margin-right:255px;
+   margin-right:500px;
    padding: 10px;
    color:#777777;
 }
@@ -13,10 +13,11 @@
     color:white;
     font-family: 'Georgia', Times, Times New Roman, serif;
     border-bottom: 2px solid #cccccc;
-    width:100%;
+    width:120%;
     height:58px;
     padding-top:-20px;
     margin-top:-10px;
+    margin-left:-10px
 }
 
 .subheader {
